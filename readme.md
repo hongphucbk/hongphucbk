@@ -4,4 +4,8 @@
 
 ## Website 
 
-Visit my page [pip](http://phuctruong.net)
+Visit my page [http://phuctruong.net](http://phuctruong.net)
+
+```bash
+pip http://phuctruong.net
+```
